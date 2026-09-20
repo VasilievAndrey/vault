@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "472fb33a31631c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f77fd5e6cdd0bf79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adeb38a72059b333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Stock trading/Initial design discussion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Initial design discussion"
+            }
+          },
+          {
+            "id": "5c25cbbb0c5fbe05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Stock trading/Proposed design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proposed design"
+            }
+          },
+          {
+            "id": "40857de660a0cbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Stock trading/Stock trading bot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stock trading bot"
+            }
+          },
+          {
+            "id": "51573b585a88a188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Stock trading/Stock trading bot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stock trading bot"
+            }
+          },
+          {
+            "id": "0105beb9c8aebc16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecture"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec8e184271cbf283",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb04438a70439210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3f74074368862fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d35e8de5ede012e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f2486dbd27f931d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9abebcc55b1afa56",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a3a773eac93476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e888f40a7cd9d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deep Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Deep Learning"
+            }
+          },
+          {
+            "id": "8f83d2f7fe3a9d31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deep Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deep Learning"
+            }
+          },
+          {
+            "id": "0a572c3a5bd9f43e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "507b829a7a517a60",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8465cd8fe3ef6724",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deep Learning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deep Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d3f74074368862fe",
+  "lastOpenFiles": [
+    "Projects/Stock trading/Initial design discussion.md",
+    "Projects/Stock trading/Proposed design.md",
+    "Projects/Stock trading/Stock trading bot.md",
+    "Projects/Stock trading/Find news signals and anomalies.md",
+    "Projects/Stock trading/Cost estimation.md",
+    "Projects/Stock trading/trading_platform_architecture_layers.svg",
+    "Market ingest service.md",
+    "Architecture.md",
+    "Untitled.base",
+    "2026-09-19.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Projects/Stock trading/Improvements.md",
+    "Projects/Stock trading",
+    "Learning/Obsidian.md",
+    "Projects",
+    "Learning/LangChain.md",
+    "lLearning.md",
+    "Learning/Deep Learning.md",
+    "Agentic AI",
+    "AWS",
+    "Learning",
+    "Robotics",
+    "Learning/GARCH.md",
+    "2026-06-11.md"
+  ]
+}
